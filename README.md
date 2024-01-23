@@ -11,6 +11,8 @@ And it's responsive in the way that when the window goes below a certain size, i
 - HTML.
 - CSS.
 
+# Screenshot of the website :
+
 ![Screenshot 2024-01-23 143843](https://github.com/shahedsaadi/pricing-table/assets/108287237/2de05d5e-0a9c-47aa-bfeb-b4d140006a32)
 
 # To try it out :
